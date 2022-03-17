@@ -85,8 +85,8 @@ module.exports = {
       'assets://storyfiles/hs2/01149/01149.mp3': './enter-dieyoung.mp3',
       'assets://storyfiles/hs2/02577/02577.mp3': './makeherpay-primadonnagirl.mp3',
       'assets://storyfiles/hs2/02926/02926.mp3': './jadeenter-stupidhoe.mp3',
-      'assets://storyfiles/hs2/13294/13294.mp3': './wake-beautifuldirtyrich.mp3',
       'assets://storyfiles/hs2/13294/13294.mp3': './wake-withoutme.mp3',
+      'assets://storyfiles/hs2/13294/13294.mp3': './wake-beautifuldirtyrich.mp3',
       'assets://storyfiles/hs2/05235/05235.mp3': './synchronize-heartbreaker.mp3',
       'assets://storyfiles/hs2/05249/05249.mp3': './unite-heartbreaker.mp3',
 
