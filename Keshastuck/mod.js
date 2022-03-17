@@ -80,9 +80,9 @@ module.exports = {
 
    routes: {
       'assets://storyfiles/hs2/00757/00757.mp3': './wvascend-clinteastwood.mp3',
-      'assets://storyfiles/hs2/01149/01149.mp3': './enter-dieyoung.mp3',
       'assets://storyfiles/hs2/01149/01149.mp3': './enter-badromance.mp3',
       'assets://storyfiles/hs2/01149/01149.mp3': './enter-paparazzi.mp3',
+      'assets://storyfiles/hs2/01149/01149.mp3': './enter-dieyoung.mp3',
       'assets://storyfiles/hs2/02577/02577.mp3': './makeherpay-primadonnagirl.mp3',
       'assets://storyfiles/hs2/02926/02926.mp3': './jadeenter-stupidhoe.mp3',
       'assets://storyfiles/hs2/13294/13294.mp3': './wake-beautifuldirtyrich.mp3',
