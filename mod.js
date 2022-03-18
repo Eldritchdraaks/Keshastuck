@@ -32,14 +32,9 @@ module.exports = {
 
       //set default setting values
       store.set("daveascend", store.get("daveascend", "./daveascend-eyeofthetiger.mp3"))
-      store.set("daveascend", store.get("daveascend", "./daveascend-loseyourself.mp3"))
       store.set("wvascend", store.get("wvascend", "./wvascend-newdivide.mp3"))
-      store.set("wvascend", store.get("wvascend", "./wvascend-clinteastwood.mp3"))
       store.set("enter", store.get("enter", "./enter-dieyoung.mp3"))
-      store.set("enter", store.get("enter", "./enter-badromance.mp3"))
-      store.set("enter", store.get("enter", "./enter-paparazzi.mp3"))
       store.set("wake", store.get("wake", "./wake-beautifuldirtyrich.mp3"))
-      store.set("wake", store.get("wake", "./wake-withoutme.mp3"))
 
       computed = {
          routes: []
